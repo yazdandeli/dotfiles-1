@@ -1,0 +1,6 @@
+[IPC Library: File Watcher (chokidar)] Unhandled Promise Rejection:  Canceled: Canceled
+    at Object.L [as canceled] (/data/data/com.termux/files/home/.config/yarn/global/node_modules/code-server/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:5:1157)
+    at N.cancel (/data/data/com.termux/files/home/.config/yarn/global/node_modules/code-server/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:8:9936)
+    at A.cancel (/data/data/com.termux/files/home/.config/yarn/global/node_modules/code-server/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:8:10313)
+    at Object.stop (/data/data/com.termux/files/home/.config/yarn/global/node_modules/code-server/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:11:31767)
+    at async N.stop (/data/data/com.termux/files/home/.config/yarn/global/node_modules/code-server/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:11:33071)

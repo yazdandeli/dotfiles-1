@@ -1,0 +1,11 @@
+[2021-03-23 14:01:35.489] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/data/data/com.termux/files/home/.local/share/code-server/User/snippets'
+[2021-03-23 14:01:35.489] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/data/data/com.termux/files/home/.local/share/code-server/User/snippets'
+[2021-03-23 14:01:35.492] [remoteagent] [error] /data/data/com.termux/files/home/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/data/data/com.termux/files/home/.local/share/code-server/extensions"}
+[2021-03-23 14:01:53.916] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/data/data/com.termux/files/home/.local/share/code-server/User/snippets'
+[2021-03-23 14:01:53.916] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/data/data/com.termux/files/home/.local/share/code-server/User/snippets'
+[2021-03-23 14:01:53.918] [remoteagent] [error] /data/data/com.termux/files/home/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/data/data/com.termux/files/home/.local/share/code-server/extensions"}
+[2021-03-23 14:04:19.888] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/data/data/com.termux/files/home/.vscode'
+[2021-03-23 14:04:19.888] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/data/data/com.termux/files/home/.vscode'
+[2021-03-23 14:04:20.506] [remoteagent] [error] /data/data/com.termux/files/home/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/data/data/com.termux/files/home/.local/share/code-server/extensions"}
+[2021-03-23 14:04:31.129] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-03-23 14:04:31.129] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)

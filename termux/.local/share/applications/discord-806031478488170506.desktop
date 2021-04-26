@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Game 806031478488170506
+Exec=/data/data/com.termux/files/home/discord-rich-presence-cli/build/send-presence %u
+Type=Application
+NoDisplay=true
+Categories=Discord;Games;
+MimeType=x-scheme-handler/discord-806031478488170506;

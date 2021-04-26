@@ -1,0 +1,1 @@
+.icons/install-papirus.sh

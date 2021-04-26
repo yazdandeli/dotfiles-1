@@ -1,0 +1,157 @@
+ 
+New instance of bashtop version: 0.9.25 Pid: 28331
+./bashtop: line 370: /proc/sys/kernel/pid_max: Permission denied
+11:15:16 ERROR: On line 370 
+./bashtop: line 1991: /proc/stat: Permission denied
+11:15:16 ERROR: On line 1991 
+./bashtop: line 1034: /proc/net/dev: Permission denied
+11:15:16 ERROR: On line 1034 
+./bashtop: line 923: /proc/net/dev: Permission denied
+./bashtop: line 1991: /proc/stat: Permission denied
+11:15:18 ERROR: On line 1991 (MUTED!)
+./bashtop: line 1991: /proc/stat: Permission denied
+11:15:20 ERROR: On line 1991 (MUTED!)
+11:15:20 ERROR: On line 1887 
+11:15:20 ERROR: On line 1887 (MUTED!)
+./bashtop: line 1991: /proc/stat: Permission denied
+11:15:22 ERROR: On line 1991 
+11:15:22 ERROR: On line 1887 (MUTED!)
+11:15:22 ERROR: On line 1887 (MUTED!)
+./bashtop: line 1991: /proc/stat: Permission denied
+11:15:25 ERROR: On line 1991 
+11:15:25 ERROR: On line 1887 (MUTED!)
+11:15:25 ERROR: On line 1887 (MUTED!)
+./bashtop: line 1991: /proc/stat: Permission denied
+11:15:28 ERROR: On line 1991 
+11:15:28 ERROR: On line 1887 (MUTED!)
+11:15:28 ERROR: On line 1887 (MUTED!)
+ 
+New instance of bashtop version: 0.9.25 Pid: 5262
+bashtop/bashtop: line 370: /proc/sys/kernel/pid_max: Permission denied
+09:40:29 ERROR: On line 370 
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+09:40:29 ERROR: On line 1991 
+bashtop/bashtop: line 1034: /proc/net/dev: Permission denied
+09:40:30 ERROR: On line 1034 
+bashtop/bashtop: line 923: /proc/net/dev: Permission denied
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+09:40:31 ERROR: On line 1991 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+09:40:34 ERROR: On line 1991 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+09:40:38 ERROR: On line 1887 
+09:40:38 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+09:40:41 ERROR: On line 1991 
+09:40:41 ERROR: On line 1887 (MUTED!)
+09:40:41 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+09:40:44 ERROR: On line 1991 
+09:40:44 ERROR: On line 1887 (MUTED!)
+09:40:44 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+09:40:49 ERROR: On line 1991 
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+09:40:51 ERROR: On line 1991 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+09:40:53 ERROR: On line 1887 
+09:40:53 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+09:40:56 ERROR: On line 1991 
+09:40:56 ERROR: On line 1887 (MUTED!)
+09:40:56 ERROR: On line 1887 (MUTED!)
+ 
+New instance of bashtop version: 0.9.25 Pid: 15463
+bashtop/bashtop: line 370: /proc/sys/kernel/pid_max: Permission denied
+13:50:49 ERROR: On line 370 
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:50:49 ERROR: On line 1991 
+bashtop/bashtop: line 1034: /proc/net/dev: Permission denied
+13:50:49 ERROR: On line 1034 
+bashtop/bashtop: line 923: /proc/net/dev: Permission denied
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:50:51 ERROR: On line 1991 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:50:52 ERROR: On line 1991 (MUTED!)
+13:50:52 ERROR: On line 1887 
+13:50:52 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:50:55 ERROR: On line 1991 
+13:50:55 ERROR: On line 1887 (MUTED!)
+13:50:55 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:50:58 ERROR: On line 1991 
+13:50:58 ERROR: On line 1887 (MUTED!)
+13:50:58 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:51:01 ERROR: On line 1991 
+13:51:01 ERROR: On line 1887 (MUTED!)
+13:51:01 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:51:03 ERROR: On line 1991 
+13:51:04 ERROR: On line 1887 (MUTED!)
+13:51:04 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:51:06 ERROR: On line 1991 
+13:51:06 ERROR: On line 1887 (MUTED!)
+13:51:06 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:51:09 ERROR: On line 1991 
+13:51:09 ERROR: On line 1887 (MUTED!)
+13:51:09 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:51:12 ERROR: On line 1991 
+13:51:12 ERROR: On line 1887 (MUTED!)
+13:51:12 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:51:15 ERROR: On line 1991 
+13:51:15 ERROR: On line 1887 (MUTED!)
+13:51:15 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:51:18 ERROR: On line 1991 
+13:51:18 ERROR: On line 1887 (MUTED!)
+13:51:18 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:51:21 ERROR: On line 1991 
+13:51:21 ERROR: On line 1887 (MUTED!)
+13:51:21 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:51:23 ERROR: On line 1991 
+13:51:23 ERROR: On line 1887 (MUTED!)
+13:51:23 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1034: /proc/net/dev: Permission denied
+13:51:24 ERROR: On line 1034 
+bashtop/bashtop: line 923: /proc/net/dev: Permission denied
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:51:26 ERROR: On line 1991 
+13:51:26 ERROR: On line 1887 
+13:51:26 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:51:29 ERROR: On line 1991 
+13:51:29 ERROR: On line 1887 (MUTED!)
+13:51:29 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+13:51:32 ERROR: On line 1991 
+13:51:32 ERROR: On line 1887 (MUTED!)
+13:51:32 ERROR: On line 1887 (MUTED!)
+ 
+New instance of bashtop version: 0.9.25 Pid: 28817
+bashtop/bashtop: line 370: /proc/sys/kernel/pid_max: Permission denied
+14:55:51 ERROR: On line 370 
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+14:55:51 ERROR: On line 1991 
+bashtop/bashtop: line 1034: /proc/net/dev: Permission denied
+14:55:52 ERROR: On line 1034 
+bashtop/bashtop: line 923: /proc/net/dev: Permission denied
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+14:55:53 ERROR: On line 1991 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+14:55:54 ERROR: On line 1991 (MUTED!)
+14:55:55 ERROR: On line 1887 
+14:55:55 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 1991: /proc/stat: Permission denied
+14:55:57 ERROR: On line 1991 
+14:55:57 ERROR: On line 1887 (MUTED!)
+14:55:57 ERROR: On line 1887 (MUTED!)
+bashtop/bashtop: line 3405: pid_Pid:_graph: invalid variable name

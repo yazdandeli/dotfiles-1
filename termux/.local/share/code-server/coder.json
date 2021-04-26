@@ -1,0 +1,13 @@
+{
+  "query": {
+    "folder": "/data/data/com.termux/files/home"
+  },
+  "update": {
+    "checked": 1616479295404,
+    "version": "3.9.1"
+  },
+  "lastVisited": {
+    "url": "/data/data/com.termux/files/home",
+    "workspace": false
+  }
+}

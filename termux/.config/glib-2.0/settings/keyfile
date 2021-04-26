@@ -1,0 +1,34 @@
+[org/gtk/settings/color-chooser]
+selected-color=(true, 0.0, 0.0, 0.0, 1.0)
+custom-colors=[(0.78823529411764703, 0.50980392156862742, 0.49803921568627452, 1.0), (0.30333333333333334, 0.064874759152215786, 0.060666666666666653, 1.0), (0.86274509803921573, 0.19607843137254902, 0.18431372549019609, 1.0), (0.19286666666666669, 0.21448135593220338, 0.22, 1.0), (0.37666666666666671, 0.87322033898305063, 1.0, 1.0), (0.027450980392156862, 0.21176470588235294, 0.25882352941176473, 1.0)]
+
+[org/gtk/settings/file-chooser]
+window-position=(0, 0)
+window-size=(1310, 982)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=178
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+
+[org/gnome/gnome-system-monitor]
+show-dependencies=false
+show-whose-processes='user'
+window-state=(809, 362, -192, 207)
+maximized=false
+
+current-tab='processes'
+
+[org/gnome/gnome-system-monitor/disktreenew]
+col-6-visible=true
+col-6-width=0
+
+[org/gtk/Demo]
+window-size=(202, 134)
+maximized=false
+fullscreen=false
