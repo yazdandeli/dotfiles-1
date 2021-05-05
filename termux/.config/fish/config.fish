@@ -1,5 +1,9 @@
-# Run pfetch
-pfetch
+# Fetch System Information
+if command -v macchina >/dev/null 2>&1
+	macchina
+else if command -v pfetch >/dev/null 2>&1
+	pfetch
+end
 
 # Environment Variables and Aliases
 set -x p ~/procfiles
