@@ -6,5 +6,5 @@ https://git.io/bruhfiles
 
 ---
 
-I don't accept any feature request here, this repository is intended for my personal configuration store \
-so you may get problems when trying to set up stuff
+I don't accept any feature request here, this repository is intended for my personal configuration storage \
+Also, dotfiles can be completely changed anytime depending on my customization and git history of previous dotfiles configs will be removed
